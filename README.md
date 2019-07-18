@@ -2,6 +2,10 @@
 
 Most of my code was written in model.py
 
+You can skip to the end by watching the video here
+
+https://github.com/rw86347/behavior-cloning/blob/master/output_video.mp4?raw=true
+
 # Goal
 
 The goal was to be able to drive a car around a simulated course with only camera input to steer the car.
